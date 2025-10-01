@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o José Augustp</h1>
+<h1 align="center">Olá 👋, Eu sou o José Augusto</h1>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopez9082&label=Profile%20views&color=0e75b6&style=flat" alt="lopez9082" /> </p>
