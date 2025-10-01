@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o José Augusto</h1>
 <p align="center">
-  <img src="[https://giffiles.alphacoders.com/357/35774.gif]" alt="JoJo Opening Animation" width="400" />
+  <img src="https://giffiles.alphacoders.com/357/35774.gif" alt="JoJo Opening Animation" width="400" />
 </p>
 <h3 align="center">A passionate Back-end developer from Brazil</h3>
 
