@@ -14,14 +14,14 @@
 - 🌱 Aprendendo **PHP e JavaScript** para expandir minhas habilidades em desenvolvimento web full-stack.
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [github.com/Lopez9082?tab=repositories](https://github.com/Lopez9082?tab=repositories)
 - 📫 Me contate: **joseauguxto6@gmail.com**
-- ⚡ Curiosidade: **Sou fã de animes (especialmente JoJo's Bizarre Adventure) e filmes clássicos antigos** – quem sabe não crio um app para maratonas épicas? 🎥🍿
+- ⚡ Curiosidade: **Sou fã de animes (especialmente JoJo's Bizarre Adventure) e filmes clássicos antigos**
 
 <div align="center">
   
-### 🌟 Citação Inspiradora
-> *"O futuro pertence àqueles que acreditam na beleza de seus sonhos."*
+### 🌟 Palavras que Me Guiam
+> *"A arte maior é o jeito de cada um... vivo pra ser feliz, não vivo pra ser comum."*
 > 
-> — Eleanor Roosevelt
+> — Alexandre Magno Abrão (Chorão)
 
 </div>
 
@@ -47,7 +47,7 @@
 </p>
 
 ### 📊 Estatísticas do GitHub
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopez9082&show_icons=true&locale=pt-BR&layout=compact&theme=radical" alt="lopez9082" />
 </p>
 
@@ -62,5 +62,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end;Apaixonado+por+tecnologia;Construindo+o+futuro+um+c%C3%B3digo+de+cada+vez!;Vamos+colaborar?+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiColor=true&center=true&vCenter=true&width=435&lines=Desenvolvedor+Back-end" alt="Typing SVG" />
 </div>
