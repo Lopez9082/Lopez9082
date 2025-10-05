@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/nuKGpea_I4gAAAAm/star-platinum-heritage-for-the-future.webp" alt="JoJo Opening Animation" width="320" />
   <br><em>Desenvolvendo com a precisão de um Stand! 💥</em>
 </p>
-<h3 align="center">Desenvolvedor Back-end apaixonado do Brasil 🇧🇷</h3>
+<h3 align="center">Desenvolvedor Back-end </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=lopez9082&label=Profile%20views&color=0e75b6&style=flat" alt="lopez9082" /> 
