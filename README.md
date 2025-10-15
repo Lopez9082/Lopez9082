@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre Mim
 - 🔭 Atualmente trabalhando em **um site de consulta médica inovador**, focado em soluções seguras e eficientes para saúde digital.
-- 🌱 Aprendendo **PHP e JavaScript** para expandir minhas habilidades em desenvolvimento web full-stack.
+- 🌱 Aprendendo **PHP e React** para expandir minhas habilidades em desenvolvimento web full-stack.
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [github.com/Lopez9082?tab=repositories](https://github.com/Lopez9082?tab=repositories)
 - 📫 Me contate: **joseauguxto6@gmail.com**
 - ⚡ Curiosidade: **Sou fã de animes (especialmente JoJo's Bizarre Adventure) e filmes clássicos antigos**
